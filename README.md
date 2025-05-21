@@ -15,9 +15,13 @@
 # privalage escalation
 ![alt text](IMG_1933.jpeg)
 # suid files
-![alt text]()IMG_1934.jpeg
+![alt text](IMG_1934.jpeg)
 # exploit
 ![alt text](IMG_1940.jpeg)
-# persistence
+# adding user
 ![alt text](IMG_1941.jpeg)
+# deleting bash history
+![](https://github.com/madinateymurova/cyberlab5/blob/main/Screenshot%202025-05-20%20203111.png?raw=true)
+# deleting log files
+![](https://github.com/madinateymurova/cyberlab5/blob/main/Screenshot%202025-05-20%20203220.png?raw=true)
 
